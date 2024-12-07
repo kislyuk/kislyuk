@@ -3,7 +3,7 @@ See the following GitHub organizations for more open source projects that I am i
 -----------------------------------|-----------------------------------------------|---------------------------------------------|--------------------------
 
 *Thanks to Konstantin Vinogradov of @RunaCapital for compiling a
-[ranking of important Python OSS developers](https://kvinogradov.com/algo-sponsors/). I was ranked #40 on the list!
+[ranking of important Python OSS developers](https://kvinogradov.com/algo-sponsors/). I was ranked #40 on the list!*
 
 *Development and maintenance of some of my open source projects is sponsored by [Tidelift](https://tidelift.com/).
 Thanks to Tidelift for investing in our open source software ecosystem. You can support Tidelift by purchasing
